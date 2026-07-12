@@ -1,0 +1,6 @@
+{
+  "name": "SEBI Techsprint",
+  "description": "Learn about modern finance, technology, and the evolving world of money.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
